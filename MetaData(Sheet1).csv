@@ -1,0 +1,7 @@
+ID,Field Name,Data Type,Description 
+1,PatientID,int64,The patients ID confirmation number
+2,FirstName,object,The patients First Name
+3,LastName,object,The patients Last Name
+4,DOB,object,The patients date of birth
+5,Gender,object,The patients gender type eiter Male or Female
+6,Diagnosis,object,What the patients is diagnosed with. 
